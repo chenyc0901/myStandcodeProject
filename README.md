@@ -8,8 +8,21 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/file/d/1e0twMyAyW-lpLHK95ukFD_V
 
 ## Project Source Codes:
 
-* [Blur image](https://github.com/chenyc0901/myStandcodeProject/blob/main/blur_img/blur.py)
-  * image processing 
+* [Blur Image](https://github.com/chenyc0901/myStandcodeProject/blob/main/blur_img/blur.py)
+  * image processing
+
+* [Bouncing Ball](https://github.com/chenyc0901/myStandcodeProject/blob/main/boucing_ball/bouncing_ball.py)
+  * event-driven program (mouse event)
+
+* [Predestrian Removing Application](https://github.com/chenyc0901/myStandcodeProject/blob/main/my_photoshop/stanCodoshop.py)
+  * image processing
 
 * [Breakout Game](https://github.com/chenyc0901/myStandcodeProject/blob/main/break_out_game/breakout.py)
   * animation & game designing
+
+* [Name Popularity Searching System](https://github.com/chenyc0901/myStandcodeProject/blob/main/name_searching_system/babygraphics.py)
+  * data structure 
+
+* [Webcrawler](https://github.com/chenyc0901/myStandcodeProject/blob/main/name_searching_system/webcrawler.py)
+  * request bs4 application
+ 
