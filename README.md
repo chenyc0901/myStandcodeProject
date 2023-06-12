@@ -7,3 +7,9 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/file/d/1e0twMyAyW-lpLHK95ukFD_V
 
 
 ## Project Source Codes:
+
+* [Blur image](https://github.com/chenyc0901/myStandcodeProject/blob/main/blur_img/blur.py)
+  * image processing 
+
+* [Breakout Game](https://github.com/chenyc0901/myStandcodeProject/blob/main/break_out_game/breakout.py)
+  * animation & game designing
