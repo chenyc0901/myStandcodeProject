@@ -3,7 +3,7 @@
 
 This repository holds my programming projects don during the period of stanCode SC101 course
 
-Watch my [DEMO VIDEOS!](https://drive.google.com/file/d/1e0twMyAyW-lpLHK95ukFD_VJugXZV2HW/view?usp=sharing)
+
 
 
 ## Project Source Codes:
@@ -18,10 +18,10 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/file/d/1e0twMyAyW-lpLHK95ukFD_V
   * image processing
 
 * [Breakout Game](https://github.com/chenyc0901/myStandcodeProject/blob/main/break_out_game/breakout.py)
-  * animation & game designing
+  * animation & game designing [DEMO VIDEOS!](https://drive.google.com/file/d/1e0twMyAyW-lpLHK95ukFD_VJugXZV2HW/view?usp=sharing)
 
 * [Name Popularity Searching System](https://github.com/chenyc0901/myStandcodeProject/blob/main/name_searching_system/babygraphics.py)
-  * data structure 
+  * data structure  [DEMO VIDEO](https://drive.google.com/file/d/1gkSdakZWxeog8hfI5jNbXDAg_uNmidti/view?usp=sharing)
 
 * [Webcrawler](https://github.com/chenyc0901/myStandcodeProject/blob/main/name_searching_system/webcrawler.py)
   * request bs4 application
